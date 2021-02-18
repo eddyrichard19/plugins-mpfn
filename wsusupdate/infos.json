@@ -1,0 +1,13 @@
+{
+  "displayName" : "Wsusupdate",
+  "author" : ["OSOP MP"],
+  "contributor" : ["Eddy Flores Leiva", "Eddy Flores Leiva","Eddy Flores Leiva"],
+  "supportedAgent" : ["Windows"],
+  "version" : "2.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "fr" : "Retrieve update windows",
+    "en" : "Retrieve update windows",
+    "es" : "Obtener las actualizaciones de Windows"
+  }
+}
