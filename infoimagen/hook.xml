@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hookstore>
+    <hook type="lang">
+        <value>en_GB</value>
+        <value>fr_FR</value>
+        <value>es_ES</value>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_infoimagen</identifier>
+        <translation>29000</translation>
+        <category>other</category>
+        <available>infoimagen</available>
+    </hook>
+</hookstore>
